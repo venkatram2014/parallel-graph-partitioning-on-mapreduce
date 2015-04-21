@@ -1,0 +1,1 @@
+It is a program aiming to develop advanced graph partitioning algorithms on MapReduce, making use of the infinite power provided by Cloud Computing.
